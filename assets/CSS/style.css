@@ -1,0 +1,46 @@
+body {
+    background-image: url("../images/BoTW.jpg");
+    background-size: 1550px 900px;
+    /* font-family:  */
+}
+
+div {
+    display: inline-block;
+    text-align:center;
+    margin: 30px 0px 0px 350px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-size: 40px;
+    background: blue;
+    border-style: solid;
+    border-color: silver;
+    border-width: 10px;
+    
+}
+
+#targetNumber, #userScore, #wins, #losses {
+    width: 50%;
+}
+
+
+#instructions {
+    width: 50%;
+    height: 30%;
+    background: blue;
+    font-size: 20px;
+}
+
+#rupees {
+    background-image: url("../images/triforce.png");
+    background-size: 300px;
+    width: 50%;
+    
+    
+}
+
+.rupee-image {
+    width: 100px;
+    height: 200px;
+    margin: 20px;
+}
